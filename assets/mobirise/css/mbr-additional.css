@@ -41,6 +41,9 @@
 .mbr-navbar__brand-img.mbr-brand__img {
   padding-bottom: 10px !important;
 }
+.navbar-header a {
+  font-size: 23px;
+}
 }
 
 #parallax1-0 {
@@ -132,6 +135,15 @@ DIV {
 .navbar-toggle .icon-bar {
   background: #ffffff !important;
 }
+.navbar-brand.brand {
+  padding: 30px 0px 0px 10px !important;
+}
+.mbr-navbar__brand-img.mbr-brand__img {
+  padding-bottom: 10px !important;
+}
+.navbar-header a {
+  font-size: 23px;
+}
 }
 
 #form1-16 {
@@ -177,6 +189,9 @@ DIV {
 .mbr-navbar__brand-img.mbr-brand__img {
   padding-bottom: 10px !important;
 }
+.navbar-header a {
+  font-size: 23px;
+}
 }
 
 #header1-3 {
@@ -215,6 +230,15 @@ DIV {
 }
 .navbar-toggle .icon-bar {
   background: #ffffff !important;
+}
+.navbar-brand.brand {
+  padding: 30px 0px 0px 10px !important;
+}
+.mbr-navbar__brand-img.mbr-brand__img {
+  padding-bottom: 10px !important;
+}
+.navbar-header a {
+  font-size: 23px;
 }
 }
 

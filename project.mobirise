@@ -15,7 +15,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/pebbles-arranged-in-shape-of-human-on-white-background-sami-sarkis-128x191-83.jpg",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-80665058-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [
@@ -83,6 +83,9 @@
             },
             ".mbr-navbar__brand-img.mbr-brand__img": {
               "padding-bottom": "10px !important"
+            },
+            ".navbar-header a": {
+              "font-size": "23px"
             }
           },
           "_anchor": "menu-4",
@@ -125,7 +128,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": "0.2"
           },
-          "title": "<a href=\"anmalan.html\" class=\"text-white\">Följ med - Bokas nu!</a><br><br><br><br>Succeresan är tillbaka<br>love your life retreat &nbsp;på magiska Bali &nbsp; &nbsp;<br>&nbsp;1-7 aPril 2019",
+          "title": "<a href=\"anmalan.html\" class=\"text-white\">Följ med - Bokas nu!</a><br><br><br><br>Succeresan är tillbaka<br><br>love your life retreat &nbsp;på magiska Bali &nbsp; &nbsp;<br>&nbsp;1-7 aPril 2019",
           "text": "<b>ge dig och din kropp en energigivande nystart</b>"
         },
         {
@@ -160,7 +163,7 @@
             "showTitle": true,
             "showText": true,
             "showMedia": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -195,7 +198,7 @@
             }
           },
           "title": "Vad ingår",
-          "text": "<b><i>Följ med på en fantastisk yogaresa till magiska Bali!</i></b><br><b><i>En resa både i det yttre och det inre. Den perfekta ön för att&nbsp;ge dig och din kropp en energigivande nystart.</i></b><b><i><br></i></b><br>I Narasomas underbara och gröna, sköna oas mitt i Ubud med pool område, så grön natur, spa &amp; massage, avslappnade utrymmen för att \"bara vara\" både i sol och skugga. Vi blir en exklusivt liten grupp (max 14 elever) med två lärare/utflyktsansvariga att tillgå. Eget retreatcenter med YogaShalan på taket uppe bland palmerna. Eget retreatkök och kock som lagar och serverar fantastisk och indonesisk lunchbuffe med allt vad exotiska frukter och kryddor innebär på Bali. Alla rum har fin ballkong mot naturens grönska och en å som rinner igenom området.<br><br><b>Del i tvåbedsrum i 7 dygn</b> (singelrum går att ordna mot kostnad)<br><b>Halvpension</b> - Frukost: Greenies, frukt, nötter och BrunchBuffé<br><b>Yogapass</b> 2tim + 1,5tim per dag, vilket motsvarar 1,5 termins yoga<br><b>Balinesisk massage,&nbsp;</b>1tim&nbsp;- bokas på plats&nbsp;<br><b>Små presenter</b> som hänger ihop med temat för dagen<br><b>Utflykter</b> till: Tirta Empul (Vatten templet) Monkey Forrest (världsskänd regnskog med coola apor och fina tempel), Vackra gröna risterrasser (dalar och/eller fält), Yoga Barn (prova på pass i meditation eller Kirtan)<br><b>Workshop</b>: i balinesisk kultur och tradition med balinerser i vår shala&nbsp;<br><b>Pool</b>, sol och palmer på retreat området att njuta av dygnet runt<br><b>Tillgång</b> <b>till</b> shalan och köket på övrig tid<br><br><b>Öppet</b> på området stor del av dagen är också <b>\"the Teahouse\"</b> där du kan köpa exotiska frukjuicer, young coconut, balinesiskt kaffe, örtteer och lättare förtäring.<br><b>Två minuters promenad</b> från retreatcentret och <b>du är mitt i staden Ubud</b> med dess härliga fart och fläkt; restauranger, barer, shopping och livliga marknad. Ubud är ett YogaMekka med en fantastisk atmosfär att utforka.<br><br><i><b>LÄS DETALJER MER NEDAN PÅ DE FEM SYMBOLERNA</b>&nbsp;och om Bali<br></i><br><br>",
+          "text": "<b><i>Följ med på en fantastisk yogaresa till magiska Bali!</i></b><br><b><i>En resa både i det yttre och det inre. Den perfekta ön för att&nbsp;ge dig och din kropp en energigivande nystart.</i></b><b><i><br></i></b><br>I Narasomas underbara och gröna, sköna oas mitt i Ubud med pool område, så grön natur, spa &amp; massage, avslappnade utrymmen för att \"bara vara\" både i sol och skugga. Vi blir en exklusivt liten grupp (max 14 elever) med två lärare/utflyktsansvariga att tillgå. Eget retreatcenter med YogaShalan på taket uppe bland palmerna. Eget retreatkök och kock som lagar och serverar fantastisk och indonesisk lunchbuffe med allt vad exotiska frukter och kryddor innebär på Bali. Alla rum har fin ballkong mot naturens grönska och en å som rinner igenom området.<br><br><b>Del i tvåbedsrum i 7 dygn</b> (singelrum går att ordna mot kostnad)<br><b>Halvpension</b> - Frukost: Greenies, frukt, nötter och BrunchBuffé<br><b>Yogapass</b> 2tim + 1,5tim per dag, vilket motsvarar 1,5 termins yoga<br><b>Balinesisk massage,&nbsp;</b>1tim&nbsp;- bokas på plats&nbsp;<br><b>Små presenter</b> som hänger ihop med temat för dagen<br><b>Utflykter</b> till: Tirta Empul (Vatten templet) Monkey Forrest (världsskänd regnskog med coola apor och fina tempel), Vackra gröna risterrasser (dalar och/eller fält), Yoga Barn (prova på pass i meditation eller Kirtan)<br><b>Workshop</b>: i balinesisk kultur och tradition med balinerser i vår shala&nbsp;<br><b>Pool</b>, sol och palmer på retreat området att njuta av dygnet runt<br><b>Tillgång</b> <b>till</b> shalan och köket på övrig tid<br><br><b>Öppet</b> på området stor del av dagen är också <b>\"the Teahouse\"</b> där du kan köpa exotiska frukjuicer, young coconut, balinesiskt kaffe, örtteer och lättare förtäring.<br><b>Två minuters promenad</b> från retreatcentret och <b>du är mitt i staden Ubud</b> med dess härliga fart och fläkt; restauranger, barer, shopping och livliga marknad. Ubud är ett YogaMekka med en fantastisk atmosfär att utforka.<br><br><b>Pris</b>: 14 500kr för 7 nätters i del av dubbelrum och halvpension. Inkluderat är alla aktiviteter som nämns ovan. För eget dubbelrum tillkommer tot 2210kr. Singelrum finns tyvärr ej! (Flyg, transfer, visum, vaccinationer, försäkringar o dyl ingår ej)<br><b>Anmälningsavgift</b>: 1700 kr -  Återlämnas inte vid ev avbokning.<br><br><i><b>LÄS DETALJER MER NEDAN PÅ DE FEM SYMBOLERNA</b><br></i><br><br>",
           "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;Läs mer om bali här</a>"
         },
         {
@@ -257,29 +260,31 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/narasoma-spa03-2000x1334-73.jpg",
-                "contentAlign": "left",
+                "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
                 "title": "Spábehandlingar",
                 "showText": true,
-                "text": "Här kan du få en massage när du kommer fram efter en lång resa. Du får du en ny mjuk kropp efter ett dygns resande. Ett sätt att koppla ifrån resestressen och komma in i Balis avkopplande stämning. Bokas på plats.",
+                "text": "Här får en massage när du kommer fram efter en lång resa. Du får du en ny mjuk och skön kropp. Ett sätt att koppla ifrån resestressen och komma in i Balis avkopplande stämning. Bokas på plats.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/narasoma-spa04-2000x1334-3.jpg",
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
                 "title": "Lev som en prinsessa",
                 "showText": true,
-                "text": "För en billig penning kan du bli behandlad som en prinsessa. Unna dig en bahandling utöver det vanliga i en miljö som är helt underbar. Balinesisk massage och reflexologi rekommenderas varmt.",
+                "text": "För en billig penning kan du bli behandlad som en prinsessa. Unna dig fler bahandlingar i en miljö som är helt underbar. Utöver det vanliga är balinesisk massage och reflexologi rekommenderas varmt.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/rctwin-6-1000x667.jpg",
                 "contentAlign": "right",
                 "overlay": "true",
@@ -288,7 +293,8 @@
                 "showText": true,
                 "text": "Svala rum med aircondition för en god nattsömn inför nästa dags yogapass. Alla rum har ett eget badrum. Rummen är enkla men följer hela yogaatmosfären med lugn och avslappning.&nbsp;Rummen delas med en vän eller för extra betalning kan man få ett dubbelrum för sig själv. ",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "active": false,
@@ -300,19 +306,21 @@
                 "showText": true,
                 "text": "För att klara av dagens Yogapass har vi i anlutning till passen en enkel måltid bestående av hälsosamma greenies och exotiska frukter. Så att passen inte blir för tunga eller att kroppen inte orkar med.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
               },
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/180327-39-2000x1333.jpg",
                 "contentAlign": "right",
-                "overlay": "true",
+                "overlay": true,
                 "showTitle": true,
                 "title": "Lunch i retreatköket",
                 "showText": true,
-                "text": "Lunch efter yogan är välgörande och en tid för att umgås. Lunchen är en balinesisk buffé och variera dag för dag. Exempel är Nasi Goreng, gröna pankakor m coccos. Vi äter väldigt lite kött och mjölkprodukter, allt är dessutom glutenfritt.&nbsp;",
+                "text": "Lunch efter yogan är välgörande och en tid för att umgås. Lunchen är en balinesisk buffé och varierar dag för dag. Exempel är Nasi Goreng, gröna pankakor m coccos. Vi äter väldigt lite kött och mjölkprodukter, allt är dessutom glutenfritt.&nbsp;",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "active": false,
@@ -322,19 +330,20 @@
                 "showTitle": true,
                 "title": "Exotiska och frukter",
                 "showText": true,
-                "text": "Du kommer att få prova många nys sorters exotiska frukter som snakefruit, mangosteen, &nbsp;rambutan, jackfruit, dragonfruit, guava, papaya, durian, med flera.&nbsp;",
+                "text": "Du kommer att få prova många nya sorters exotiska frukter som snakefruit, mangosteen, &nbsp;rambutan, jackfruit, dragonfruit, guava, papaya, durian, med flera.&nbsp;",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/narasoma-spa10-2000x1334-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180330-374-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": false,
                 "showTitle": true,
-                "title": "Naturliga aromer",
+                "title": "Underbar miljö &amp; livsnjutning",
                 "showText": true,
-                "text": "För att skapa den unika balinesiska atmosfären med aromer och dofter användes naturliga råvaror och kryddor som odlas i närområdet.",
+                "text": "Enbart den unika balinesiska atmosfären med naturen, aromer och dofter är välgörande. Här används naturliga råvaror och kryddor som odlas i närområdet.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
@@ -346,57 +355,62 @@
                 "showTitle": true,
                 "title": "Njut av poolen",
                 "showText": true,
-                "text": "Glid ner i den svalkande poolen efter en dags Yoga. Sola och njut av solen eller skuggam en stund varje dag.&nbsp;",
+                "text": "Glid ner i den svalkande poolen efter en dags Yoga. Sola och få &nbsp;lite färg och energi efter den svenska vintern. Njut av solens energi eller palmernas skuggan en stund varje dag.&nbsp;",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/relax-pool-1000x666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180329-1028-2000x2667.jpg",
                 "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
                 "title": "Relax - Bara vara",
                 "showText": true,
-                "text": "Häng i en vilostol eller en dagbed intill poolen och läs en bok, slumra eller bara relaxa med yoga musik i dina hörlurar.",
+                "text": "Häng i en vilostol eller en dagbed intill poolen och läs en bok, slumra eller bara njut och relaxa med yoga musik i dina hörlurar.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pool-03-2000x1334-20.jpg",
-                "contentAlign": "right",
-                "overlay": "true",
-                "showTitle": true,
-                "title": "Underbar miljö livsnjutning",
-                "showText": true,
-                "text": "Unna dig en energikick efter en vinters mörker och kyla.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pool-05-2000x1334-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180401-352-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
                 "title": "Balis unika atmosfär",
                 "showText": true,
-                "text": "Området har många krypin där du kan hitta den plats som passar dig för tillfället.",
+                "text": "Unna dig en magisk resa till Bali. En upptäcktsresa med utflykter och energikick efter en vinters mörker och kyla.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pool-07-2000x1334-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180330-442-2000x3000.jpg",
                 "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
-                "title": "The Teahouse",
+                "title": "Underbar miljö &amp; livsnjutning",
                 "showText": true,
-                "text": "Områdets lunchcaffé serverer enklare måltider när du är sugen på något. Exotiska fruktjuicer, young cocnut, balinesiskt kaffe, örtteer och annat gott. Bara att sätta upp på rummet och betala vid utcheckning.",
+                "text": "Området har många krypin där du kan hitta den plats som passar dig för tillfället. En prommenad bland ubuds härliga gränder, äta coccosglass är också värdefullt. Egen tid!",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/180328-60-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Yoga och Mindfulness",
+                "showText": true,
+                "text": "Yogastilen är lugn och ger närvaro, rörlighet, energi och djup avslappning. Passar alla - både nybörjaren och den som yogat tidigare. YinYoga, HoliYoga, YogaNidra, Mindfulness och Teori - 2 pass/dag, med undantag för den utflykter.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "active": false,
@@ -406,21 +420,23 @@
                 "showTitle": true,
                 "title": "Shalan - Yogasalen",
                 "showText": true,
-                "text": "Vi har en helt egen yogasal eller Shala uppe på taket vid palmernas toppar, med öppna väggar för att ta in den underbara atmosfären. Här yogar vi tillsammans två pass om dagen. Mattor och andra props finns på plats. Om någon vill kan du när som &nbsp;gå upp och genomföra din egen Yoga i stillhet.",
+                "text": "Vi har en helt egen yogasal eller Shala uppe på taket vid palmernas toppar, med öppna väggar för att ta in den underbara atmosfären. Här yogar vi tillsammans två pass om dagen. Om någon vill kan du när som &nbsp;gå upp och genomföra din egen Yoga i stillhet.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/180401-152-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
                 "title": "Yoga utrustning",
                 "showText": true,
-                "text": "Ingen behöver släpa med sig sin egen yogautrustning. Res enkelt och lätt ta bara med det nödvändigaste. Vi tillhandahåller yogamattor, kuddar, bolster, straps och annat.",
+                "text": "Ingen behöver släpa med sig sin egen yogautrustning. Res enkelt och lätt, ta bara med det nödvändigaste. Vil tillhandahåller yogamattor och props dvs kuddar, bolster, bricks, straps och annat.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.3"
               },
               {
                 "active": false,
@@ -432,19 +448,47 @@
                 "showText": true,
                 "text": "Hela anläggningen är byggd för yoga. Designen och atmosfären med sitt lugn och sin harmoni skapar något helt unikt - en oas mitt i Ubud. Ett yogamekka på magiska Bali.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/workshop-space-07-2000x1334-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180330-180-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
-                "title": "Chilla och dela med dig av din upplevelse",
+                "title": "Workshop &amp; Utflykter",
                 "showText": true,
-                "text": "På anläggningen gemensamhetsytor där hittar du en enkel internet uppkoppling som tillåter dig att kommunisera med din familj och vänner som är kvar där hemma.",
+                "text": "Din resa blir också en guidad upplevelse av Bali. Fantastiska tropisk natur, heliga tempel, leende männsikor och färgrik blomster prakt.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/180330-340-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Dela med dig av din upplevelse",
+                "showText": true,
+                "text": "Delad glädje. Gemenskap. Nya vänner. Dubbla erfarenheter. Att umgås kravlöst. Gruppfeeling. Och internet uppkoppling som tillåter dig att hålla kontakt med din familj och vänner som är kvar där hemma.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/180331-54-2000x3000.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Följ med oss!&nbsp;",
+                "showText": true,
+                "text": "Nyfiken? Vill du följa med? Jag, Camilla, vill gärna att just du följer med på resan! Det är dags att bestämma sig nu. Bokas nu. Har du frågor? Hör av dig.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
               }
             ]
           },
@@ -586,7 +630,7 @@
             "overlayOpacity": 0.5
           },
           "header": "vi som arrangerar Nästa års <br>Love your life retreat: 2019",
-          "subheader": "För fjärde året i rad återkommer succeresan till magiska Bali.<br>Det är en Yogaresa men också en Baliresa med genom fantastiska frukt och matupplevelser, grön och skön natur, anorlunda djurliv, vackra tempel, härligt leende människor, hinduisk kultur &amp; tratidion. En resa är alltid in inre resa och vi hoppas du ska möta avkoppling och energigivande nystart, att njuta och må bra på vårt LOVE YOUR LIFE RETREAT.",
+          "subheader": "För fjärde året i rad återkommer succeresan till magiska Bali.<br>Det är en Yogaresa men också en Baliresa med genom fantastiska frukt och matupplevelser, grön och skön natur, anorlunda djurliv, vackra tempel, härligt leende människor, hinduisk kultur &amp; tratidion. En resa är alltid en inre resa också och vi hoppas du ska möta avkoppling och energigivande nystart, att njuta och må bra på vårt LOVE YOUR LIFE RETREAT.",
           "media1": {
             "image": {
               "active": true,
@@ -873,6 +917,15 @@
             },
             ".navbar-toggle .icon-bar": {
               "background": "#ffffff !important"
+            },
+            ".navbar-brand.brand": {
+              "padding": "30px 0px 0px 10px !important"
+            },
+            ".mbr-navbar__brand-img.mbr-brand__img": {
+              "padding-bottom": "10px !important"
+            },
+            ".navbar-header a": {
+              "font-size": "23px"
             }
           }
         },
@@ -977,6 +1030,9 @@
             },
             ".mbr-navbar__brand-img.mbr-brand__img": {
               "padding-bottom": "10px !important"
+            },
+            ".navbar-header a": {
+              "font-size": "23px"
             }
           },
           "_params": {
@@ -1137,6 +1193,15 @@
             },
             ".navbar-toggle .icon-bar": {
               "background": "#ffffff !important"
+            },
+            ".navbar-brand.brand": {
+              "padding": "30px 0px 0px 10px !important"
+            },
+            ".mbr-navbar__brand-img.mbr-brand__img": {
+              "padding-bottom": "10px !important"
+            },
+            ".navbar-header a": {
+              "font-size": "23px"
             }
           },
           "_anchor": "menu-7"
