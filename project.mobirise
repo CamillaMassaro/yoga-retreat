@@ -29,7 +29,9 @@
         "name": "Quicksand",
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700"
       }
-    ]
+    ],
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "index.html": {
