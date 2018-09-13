@@ -1,0 +1,1200 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.14.2",
+    "versionPublish": "4.8.1",
+    "name": "Bali-Yoga-Retreat",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {},
+      "additionalSetColors": [
+        "#ffffff"
+      ]
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/pebbles-arranged-in-shape-of-human-on-white-background-sami-sarkis-128x191-83.jpg",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-80665058-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "uniqCompNum": 9,
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [
+      {
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i",
+        "name": "Rubik",
+        "css": "'Rubik', sans-serif"
+      },
+      {
+        "css": "'Quicksand', sans-serif",
+        "name": "Quicksand",
+        "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700"
+      }
+    ]
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "unicore/components",
+          "_name": "menu",
+          "_styles": {
+            ".simplemenu": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-inverse": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-fixed-top": "",
+            ".navbar-inverse.scrolled": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-toggle": "",
+            ".navbar-collapse": "",
+            ".collapse": "",
+            ".navbar-collapse.in": "",
+            ".nav li  a": "",
+            ".navbar-login": "",
+            ".navbar-right": "",
+            ".mbr-navbar__brand-img mbr-brand__img": "",
+            ".navbar-collapse.collapse.in": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".mbr-navbar__section": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-toggle .icon-bar": {
+              "background": "#ffffff !important"
+            },
+            ".navbar-brand.brand": {
+              "padding": "30px 0px 0px 10px !important"
+            },
+            ".mbr-navbar__brand-img.mbr-brand__img": {
+              "padding-bottom": "10px !important"
+            }
+          },
+          "_anchor": "menu-4",
+          "_params": {
+            "logo": false,
+            "brandName": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brandName": "<a data-app-btn=\"true\" data-app-selector=\".navbar-header a\" href=\"./index.html\" class=\"navbar-brand brand text-danger\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Retreat : BAli Yoga &amp; minfulness<br></a>",
+          "buttons": "<li><a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"anmalan.html\" data-toolbar=\"-mbrBtnMove\">Boka här !<br></a></li>",
+          "itemsRight": "<li class=\"dropdown1\"><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"index.html\">hem</a><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"index.html#features2-11\">om oss</a><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"page3.html\">kontakta&nbsp;</a></li>"
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "parallax1",
+          "_anchor": "parallax1-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/activity-meditation-2000x951-59.jpg",
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.2"
+          },
+          "title": "<a href=\"anmalan.html\" class=\"text-white\">Följ med - Bokas nu!</a><br><br><br><br>Succeresan är tillbaka<br>love your life retreat &nbsp;på magiska Bali &nbsp; &nbsp;<br>&nbsp;1-7 aPril 2019",
+          "text": "<b>ge dig och din kropp en energigivande nystart</b>"
+        },
+        {
+          "_styles": {
+            "p, span": {
+              "color": "#fff"
+            }
+          },
+          "alias": "unicore/components",
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-1",
+          "_params": {
+            "bgColor1": "#ffffff",
+            "bgImageRadio2": true,
+            "bgImage2": "@PROJECT_PATH@/assets/images/little-buddha-1-2000x1674.jpg",
+            "overlay2": true,
+            "overlayColor2": "#151515",
+            "overlayOpacity2": "0"
+          },
+          "text1_1": "<br><span style=\"letter-spacing: 0px;\">Vill du må bättre och få mer energi? </span><br><br><span style=\"letter-spacing: 0px;\">Vi startar dagen med en gröna detoxjuicer till frukost. Äter många exotiska frukter och balinesisk lunch. Vi garanterar att du kommer att märka skillnad.</span><br>",
+          "text1_2": "Camilla &nbsp;- &nbsp;Yogalärare och coach",
+          "text2_1": "<br><br>Boosta dig – höj din självkänsla!<br><br>&nbsp;Vi ger dig energi och självinsikt genom övningar som inte bara höjer självkänslan, utan också hälsan och humöret!<br><br>Du kommer att lära dig göra nya övningar varje dag. &nbsp;När du kommer hem har du en palett av övningar att välja som kommer att göra nytta för dig.<br>",
+          "text2_2": "Mari Jansson - Gästande Yogalärare",
+          "text3_1": "<span style=\"letter-spacing: 0px;\"><br>Upplev magiska Bali och Ubud.</span><br><br>Ubud är yogacentrum med sina många yogashalas där kutluren och traditionen är mycket gymnsam för individuell utvecklig.<br><br>Du kommer att älska det!",
+          "text3_2": "Ann-Charlotte Sivertsson - Yogini, yogalärare och &nbsp;resefantast"
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-12",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive center-content",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/buddha-vit-470x255.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Vad ingår",
+          "text": "<b><i>Följ med på en fantastisk yogaresa till magiska Bali!</i></b><br><b><i>En resa både i det yttre och det inre. Den perfekta ön för att&nbsp;ge dig och din kropp en energigivande nystart.</i></b><b><i><br></i></b><br>I Narasomas underbara och gröna, sköna oas mitt i Ubud med pool område, så grön natur, spa &amp; massage, avslappnade utrymmen för att \"bara vara\" både i sol och skugga. Vi blir en exklusivt liten grupp (max 14 elever) med två lärare/utflyktsansvariga att tillgå. Eget retreatcenter med YogaShalan på taket uppe bland palmerna. Eget retreatkök och kock som lagar och serverar fantastisk och indonesisk lunchbuffe med allt vad exotiska frukter och kryddor innebär på Bali. Alla rum har fin ballkong mot naturens grönska och en å som rinner igenom området.<br><br><b>Del i tvåbedsrum i 7 dygn</b> (singelrum går att ordna mot kostnad)<br><b>Halvpension</b> - Frukost: Greenies, frukt, nötter och BrunchBuffé<br><b>Yogapass</b> 2tim + 1,5tim per dag, vilket motsvarar 1,5 termins yoga<br><b>Balinesisk massage,&nbsp;</b>1tim&nbsp;- bokas på plats&nbsp;<br><b>Små presenter</b> som hänger ihop med temat för dagen<br><b>Utflykter</b> till: Tirta Empul (Vatten templet) Monkey Forrest (världsskänd regnskog med coola apor och fina tempel), Vackra gröna risterrasser (dalar och/eller fält), Yoga Barn (prova på pass i meditation eller Kirtan)<br><b>Workshop</b>: i balinesisk kultur och tradition med balinerser i vår shala&nbsp;<br><b>Pool</b>, sol och palmer på retreat området att njuta av dygnet runt<br><b>Tillgång</b> <b>till</b> shalan och köket på övrig tid<br><br><b>Öppet</b> på området stor del av dagen är också <b>\"the Teahouse\"</b> där du kan köpa exotiska frukjuicer, young coconut, balinesiskt kaffe, örtteer och lättare förtäring.<br><b>Två minuters promenad</b> från retreatcentret och <b>du är mitt i staden Ubud</b> med dess härliga fart och fläkt; restauranger, barer, shopping och livliga marknad. Ubud är ett YogaMekka med en fantastisk atmosfär att utforka.<br><br><i><b>LÄS DETALJER MER NEDAN PÅ DE FEM SYMBOLERNA</b>&nbsp;och om Bali<br></i><br><br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;Läs mer om bali här</a>"
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "msg-box16",
+          "_anchor": "msg-box16-15",
+          "_params": {
+            "showTitles": true,
+            "showSubtitle": true,
+            "showText": true,
+            "elements": "5",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-circle btn-primary\" data-toggle=\"tab\" href=\"#menu1\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-info fa-3x\"></i></a>",
+          "title1": "yoga varje dag",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-circle btn-info\" data-toggle=\"tab\" href=\"#menu2\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-home fa-3x\"></i></a>",
+          "title2": "Boende på Yogacentret",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-circle btn-danger\" data-toggle=\"tab\" href=\"#menu3\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-cutlery fa-3x\"></i></a>",
+          "title3": "hälsosam mat &amp; Dryck",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-circle btn-warning\" data-toggle=\"tab\" href=\"#menu4\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-map-o fa-3x\"></i></a>",
+          "title4": "Utflykter &amp; Andra aktiviteter som ingår",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-circle btn-success\" data-toggle=\"tab\" href=\"#menu5\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-plane fa-3x\"></i></a>",
+          "title5": "Flygresa &amp; transfer",
+          "subtitle1": "Yoga varje dag",
+          "text1": "<br><i>En exklusivt liten grupp (max 14 elever) med två lärare<br></i><br>2 yogaklasser per dag, med undantag för utflyktsdagar<br><br><span style=\"letter-spacing: 0.5px;\"><b><i>Holi Yoga</i></b> med chakrafokus - Kommer från Kundaliniyogan men här är den mjukare och mer flexibel</span><br><span style=\"letter-spacing: 0.5px;\"><b><i>Yin Yoga</i></b> för att landa i kroppen - Här jobbar vi med fasian och inte så mycket med muskler för att komma åt stelhet i kroppen</span><br><b><i>Yoga Nidra</i></b> för djupavslappning - Guidning genom kroppen för att slappna av men inte somna.&nbsp;<br><b><i>Mindfullness</i></b> för att stilla sinnet - Buddhistiska traditioner för meditation, öka välmående och mjuka upp våra tankar och motstånd.<br><b><i>Meditationer</i></b> för att höja medvetandet - För att öka självmedvetenhet. Lyssna innåt. Först då kan vi förändra något.&nbsp;<br><b><i>Chanting</i></b> för att med vibrationer komma in i kroppen - Allt består av vibrationer och att tona är en mycket gammal och läkande visdom<br><br><b>Utrustning ingår: </b>Yogamattor, kuddar, bolster, straps och annat finns på plats. Du behöver inte ta med något alls.<br><b>Klädsel under passen: </b>Mjuka kläder för bekvämlighet och god rörlighet under yogan. Luftiga kläder för att det är varmt även på morgonen.",
+          "subtitle2": "Boende på Narasoma",
+          "text2": "<p><i>Vad ingår:</i><br></p><b>på vårt privata Yogacentret:<br></b><p>Del i dubbelrum m roomservice, toalett, dusch och balkong, handukar både till dusch och till poolen, aircondition, saftybox, free wifi<br>Frukost och greenies/young coconut/fruktjuicer varje dag<br>Våra rum är belägna i ett ”eget” hus med yogashalan på taket med eget kök och sällskapsrum på nedre plan. <br>Yogashalan är öppen att använda men lämnas iordningställd<br><br><b>allmänt på Retreatområdet:  </b><br>Retreatområdet är en oas mitt i Ubud, med lugn och ro och exotisk regnskogsaktig miljö. Vi uppmanar er att vistas i området för att förstärka retreatets effekt och process. <br>Pool utomhus och solsängar. Sköna ställen att hänga/vila på både i sol och skugga<br></p>The Teahouse, ett lunchcafé högt beläget i lugn och återhämtande miljö. &nbsp;Här kan du köpa exotiska frukjuicer, young coconut, balinesiskt kaffe, örtteer och lättare förtäring som Nasi Goreng.<br>Vatten finns gratis i ”vårt” hus att fylla på era flaskor med. På Bali dricker vi inte vattnet.<br>Meditationsgrotta för egen stillhet<br><br><b>eget Spacenter under poolområdet:</b><br><p>Spa och massagebehandlingar finns att boka till ett bra pris<br>(Vi rekommenderar att ni har en behandling bokad när ni kommer. Skönt sätt att komma i form efter en lång resa.)<br></p><p>Massage:&nbsp;<span style=\"letter-spacing: 0.5px;\">narasoma.com/body-spa/8-narasoma-massage.html</span></p>Spabehandlingar: narasoma.com/body-spa/9-narasoma-scrubs.html<br><p><br></p><br><p><br></p>",
+          "subtitle3": "Hälsosam mat",
+          "text3": "<i>Ingår:<br></i><b>Frukost <br></b>Vi äter lätt på morgonen för att träna på att låta magen vila och därför startar vi dagen med <br>hälsosama och detoxande juicer, frukt och nötter.<br><br><b>Lunch</b>/<b>Brunch</b>&nbsp;<br>Stor buffé &nbsp;som v<i>arierar från dag till dag&nbsp;</i><br>Exotiska och färgranna frukter, gröna pankakor, omelett, nasi goreng, ägg, bröd, marmelad, m.fl.<br>Kaffe/tea, färska örtteer, balinesiskt kaffe<br>(ost, skinka och sallads grönsaker är ovanligt på Bali)<br>Renat vatten finns i stora behållare på \"vårt yogacenter\". Det är gratis att fylla på medhavda flaskor. På Bali dricker vi inte kranvattnet.<br><br><br><br><i>Ingår inte:</i><br><b>Tea House</b><br><i>Finns på retreatområdet.&nbsp;Högt beläget i lugn miljö för återhämtning.&nbsp;</i><br><span style=\"letter-spacing: 0.5px;\">Lättare rätter, kaffe/tea och andra kalla och varma drycker finns att köpa.&nbsp;</span><br><span style=\"letter-spacing: 0.5px;\"><br></span><b>Middag/Kvällsmat &amp; Dryck &nbsp;</b><br><i>Det finns flera bra restauranger nära Narasoma ca två min promenad, om man är trött passar de utmärkt. Lite underhållning som trubbadurer finns.</i><br><i>Lite längre bort finns hur många och bra restauranger som helst. Prova dig fram och njut av den balinesiska och indonesisga maten. Det är billigt med mat, men det finns en och annan populär restaurang som är dyra. Kolla gärna menyerna utanför restaurangerna, det gör alla, det är inte pinsamt. Det finns självklart pizza och sådan mat vi känner igen. Efterrätter och glass är gott också. Prova coccosnötsglas (det finns särskilda caféer), en höjdare! En kall Bintang (öl) är aldrig fel heller när det är varmt. Undvik sprit och drinkar eftersom det kan vara hembränt och kunskapen är inte så bra kring det, dvs det kan vara livsfarligt att dricka. Vin är dyrt. Öl och läsk är perfekt och välgörande (i lagom mängd) när det är så varmt!<br></i><br><b>Tips! - Moderna restauranger </b><br><i>med hög medvetenhet kring vegan, ekologiskt, allergier, mm finns. Vi rekomenderar dem helhjärtat, ibland kan de dock vara lite dyra fär att vara i Indonesien.<br>Ofta säljer de även en del eteriska oljor, böcker och andra yogiska saker.&nbsp;</i><br><i>Mysiga! Rekomenderas. Finns en bit ifrån Narasoma.</i><br>",
+          "subtitle4": "Utflykter och andra aktiviteter&nbsp;",
+          "text4": "(Vid våra organiserade utflykter ingår inträden, bussresor, hyra av saris, offerings, mm. Ni måste dock själva tänka på att ta med tex solskydd, vattenflaskor, badkäder, solhattar, snacks, mm.)<br><br><i>....som ingår.<br></i><br><b>Yoga- &amp; BaliTräff</b><br>Inför resan träffas vi i Västerås för att yoga och ”starta” vår magiska resa. <br>Datum: Söndag 10 feb kl. 9.30-14.30 <br>Agenda: Längre YogaPass för att prova på, lunch och genomgång och diskussioner kring resan.&nbsp;<br><br><b>Balinesisk massage</b> <br>i spat på Narasoma. Tider bokas när vi är på plats.<br><span style=\"letter-spacing: 0.5px;\"><br></span><span style=\"letter-spacing: 0.5px;\"><b>Dagsutflykt</b></span><br>Pura Tirtha Empul, Vattentemplet, där balinesiska reningsceremonin och tempelritualer visas och upplevs.<br>Vi besöker samma dag vackra risterrasser och får uppleva böndernas verklighet pland plantagen.<br><br><b>Eftermiddagsutflykt</b><br>Sacred Monkey Forest Sanctuary, promenad i regnskogens härliga natur för att betrakta de världskända apflockarna och tempelområde<br><br><b>Workshop i yogashalan</b>&nbsp;<br>Tillsamman med balineser i balinesisk kultur och tradition inför utflykt till Vattentemplet<br><span style=\"letter-spacing: 0.5px;\"><br></span><span style=\"letter-spacing: 0.5px;\"><b>Kvällsaktivitet till Yoga Barn</b></span><br><span style=\"letter-spacing: 0.5px;\">Kirtan, indisk sing-a-long (ca 2tim) med inbjudna välkända musiker och deras exotiska instrument ELLER Singing Bowl Maditation ELLER något annat som passar just den dagen, på Yoga Barn (ett känt yoga ställe i Ubud)</span><br><span style=\"letter-spacing: 0.5px;\"><br></span><br><i>...som inte ingår.</i><br><br><b>Finns i närheten:</b><br>Risfältspromenad&nbsp;<br>Lokala tempelområdet vid en bro<br>Botiqer (dyrare affärer. fixed prises), Hål i väggen försäljning (pruta minst 50%, billigare, lite sämre kvalitet), &nbsp;och marknader (Ubud har en egen marknad som är öppen vare dag. Det finns fler maknader som man kan åka taxi till som är mer specifika som trämarknader tex.<br><br><b>En bit ifrån:</b><br>Vulkan bestigning - ex Mt Bathur&nbsp;<br>Vattenfall - ex Gitgit<br>Andra kända tempel - ex Tana Lot (ute i havet), Pura Luhur Uluwatu, Pura Lempuyang Luhur, Pura Besakih (modertemplet), Pura UlunDanu (vid sjön Dana Beratan)<br>Havet och stränder - ex Sanur (fint men mkt turister, Lovina (svart strand + delfinutflykter), m.fl<br>Havet och surfing - Canggu (nya ungdomsstället efter Kuta), Seminyak Beach (lugnare, mindre folk), Ulueatu (avanserad surfing)&nbsp;<br>Underbara öar - Nusa Penida, Nusa Lembongan, Nusa Cenningan (ligger invid varandra har fina stränder)<br>eller Gili Öarna; Trawangan, Air, Meno (har fina stränder. Tyvärr kan man inte åka dit nu pga jordbävningar på Lombock)<br><br><br>",
+          "subtitle5": "Resa och transport",
+          "text5": "<p><b>Flygresa och transfer</b> ingår inte i priset</p><p>Flygresan bokar du själv. Vi brukar boka några mån i förväg. Det finns flera prisklasser. Vi föredrar en mellanladning, att komma fram em/kväll, av-/ombokningsskydd och då landar det på ca 7000-7500kr. Men det finns blijetter för 4500-5000kr och man kan resa med sovsäng då kostar det 11 000-12 000kr.<br>Transfer kan vi ordna och kostar ca 25 USD per taxi (3-4pers). Vi rekommenderar detta - enkelt och lätt när man är trött efter resan.<br></p><br><p><b>Visum</b> fordars inte men har tidigare funnist så det bör kontrolleras så det inte har förändrats.<br><b>Utreseskatt</b> har också funnist tidigare och bör också dubbelkollas innan avfärd.<br>Läs mer på<b> indonesiska ambasaden i Stockholm: </b>&nbsp;&nbsp;&nbsp;&nbsp;https://www.kemlu.go.id/stockholm/en/default.aspx &nbsp; &nbsp;</p><p> och på <b>svenska ambasaden i Jakarta (Indonesien):&nbsp;</b>www.swedenabroad.se/sv/utlandsmyndigheter/indonesien-jakarta/<br><br></p><b>Tips!</b><br><p>Vi rekommenderar att ni kommer dagen innan retreatets start för att landa och vänja er lite. Det är en stor tidsomställning och Ubud ligger mitt i landet vilket för att luftfuktigheten är väldigt hög.&nbsp;Det fins ett billigt vandrarhem i närheten.<br><br>Vi rekomenderar också att ni tar er tid att se er om på Bali när ni ändå är där. Ta gärna en extra vecka för att utforska.<br>Vill ni bara sola, bada, äta gott och få billiga balinesiska massager är Nusa Lembongan och Gilli Öarna (Lombok) fantastiskt.&nbsp;<br><br><br></p>"
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/narasoma-spa03-2000x1334-73.jpg",
+                "contentAlign": "left",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Spábehandlingar",
+                "showText": true,
+                "text": "Här kan du få en massage när du kommer fram efter en lång resa. Du får du en ny mjuk kropp efter ett dygns resande. Ett sätt att koppla ifrån resestressen och komma in i Balis avkopplande stämning. Bokas på plats.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/narasoma-spa04-2000x1334-3.jpg",
+                "contentAlign": "center",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Lev som en prinsessa",
+                "showText": true,
+                "text": "För en billig penning kan du bli behandlad som en prinsessa. Unna dig en bahandling utöver det vanliga i en miljö som är helt underbar. Balinesisk massage och reflexologi rekommenderas varmt.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/rctwin-6-1000x667.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Rummen",
+                "showText": true,
+                "text": "Svala rum med aircondition för en god nattsömn inför nästa dags yogapass. Alla rum har ett eget badrum. Rummen är enkla men följer hela yogaatmosfären med lugn och avslappning.&nbsp;Rummen delas med en vän eller för extra betalning kan man få ett dubbelrum för sig själv. ",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/greene-m-blm-960x1280.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Frukost - Greenie",
+                "showText": true,
+                "text": "För att klara av dagens Yogapass har vi i anlutning till passen en enkel måltid bestående av hälsosamma greenies och exotiska frukter. Så att passen inte blir för tunga eller att kroppen inte orkar med.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/180327-39-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Lunch i retreatköket",
+                "showText": true,
+                "text": "Lunch efter yogan är välgörande och en tid för att umgås. Lunchen är en balinesisk buffé och variera dag för dag. Exempel är Nasi Goreng, gröna pankakor m coccos. Vi äter väldigt lite kött och mjölkprodukter, allt är dessutom glutenfritt.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/exotiska-frukter-1050x661.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Exotiska och frukter",
+                "showText": true,
+                "text": "Du kommer att få prova många nys sorters exotiska frukter som snakefruit, mangosteen, &nbsp;rambutan, jackfruit, dragonfruit, guava, papaya, durian, med flera.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/narasoma-spa10-2000x1334-99.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Naturliga aromer",
+                "showText": true,
+                "text": "För att skapa den unika balinesiska atmosfären med aromer och dofter användes naturliga råvaror och kryddor som odlas i närområdet.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/pool-01-2000x1333-84.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Njut av poolen",
+                "showText": true,
+                "text": "Glid ner i den svalkande poolen efter en dags Yoga. Sola och njut av solen eller skuggam en stund varje dag.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/relax-pool-1000x666.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Relax - Bara vara",
+                "showText": true,
+                "text": "Häng i en vilostol eller en dagbed intill poolen och läs en bok, slumra eller bara relaxa med yoga musik i dina hörlurar.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/pool-03-2000x1334-20.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Underbar miljö livsnjutning",
+                "showText": true,
+                "text": "Unna dig en energikick efter en vinters mörker och kyla.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/pool-05-2000x1334-42.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Balis unika atmosfär",
+                "showText": true,
+                "text": "Området har många krypin där du kan hitta den plats som passar dig för tillfället.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/pool-07-2000x1334-6.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "The Teahouse",
+                "showText": true,
+                "text": "Områdets lunchcaffé serverer enklare måltider när du är sugen på något. Exotiska fruktjuicer, young cocnut, balinesiskt kaffe, örtteer och annat gott. Bara att sätta upp på rummet och betala vid utcheckning.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/rooftopyoga-01-2000x1334-84.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Shalan - Yogasalen",
+                "showText": true,
+                "text": "Vi har en helt egen yogasal eller Shala uppe på taket vid palmernas toppar, med öppna väggar för att ta in den underbara atmosfären. Här yogar vi tillsammans två pass om dagen. Mattor och andra props finns på plats. Om någon vill kan du när som &nbsp;gå upp och genomföra din egen Yoga i stillhet.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/180401-152-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Yoga utrustning",
+                "showText": true,
+                "text": "Ingen behöver släpa med sig sin egen yogautrustning. Res enkelt och lätt ta bara med det nödvändigaste. Vi tillhandahåller yogamattor, kuddar, bolster, straps och annat.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/180401-118-2000x1333.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "En unik atmosfär designad för yoga och meditation",
+                "showText": true,
+                "text": "Hela anläggningen är byggd för yoga. Designen och atmosfären med sitt lugn och sin harmoni skapar något helt unikt - en oas mitt i Ubud. Ett yogamekka på magiska Bali.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/workshop-space-07-2000x1334-54.jpg",
+                "contentAlign": "right",
+                "overlay": "true",
+                "showTitle": true,
+                "title": "Chilla och dela med dig av din upplevelse",
+                "showText": true,
+                "text": "På anläggningen gemensamhetsytor där hittar du en enkel internet uppkoppling som tillåter dig att kommunisera med din familj och vänner som är kvar där hemma.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-15",
+          "articleLayout": false
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "msg-box12",
+          "_anchor": "msg-box12-17",
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Bilder från vårt retreat 2018 : Love Youre life - bahli yoga &amp; Kultur&nbsp;",
+          "text1": "",
+          "text2": ""
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-3",
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showAuthorName": true,
+            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "vad andra tyckte om vårt <br>Love your life REtreat på magiska bali",
+          "text1_1": "Det är det bästa jag gjort på länge! \n<br>Fantastisk kombination av valfria aktiviteter, yoga och guidade utflykter. Och dessutom är maten helt otroligt! Yogan var utmärkt, min kropp älskade stretchingen. Maten var utsökt och fanns i mängder. Alla behandlingar, såsom massage och ansiktsbehandlingar var förstklassiga - jag kan fortfarande föreställa mig badkaret fullt av vatten med blomblad flytande på ytan! Aktiviteterna utanför tillflyktsorten var kanonbra, även promenaderna. Jag saknar allt och kommer att återvända! \n<br>Tack till alla!\n<br>\n<br>",
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thumbnail-img-1008-960x720.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "text1_2": "Pia Nordlander - Bild'n AB (deltagare 2018)",
+          "text2_1": "Ett mysigt och personligt ställe! <br>Jag upplevde retreatområdet &nbsp;som en grön oas mitt i Ubud där det vimlar av shopping, restanger och marknad. Hotellet/Retreatcentret är litet och har en familjär stämning och mycket hjälpsam och leende personal. Yogalektionerna anpassas till deltagarnas nivå och är av flera olika karraktärer.&nbsp;I vårt paket ingick också massage - fantastiskt lyxigt. <br>Vi hade väldigt roligt!",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thumbnail-img-1009-720x960.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "text2_2": "Anna Sjödin - Västerås Stad (Deltagare 2018)",
+          "text3_1": "Ett perfekt ställe att komma i kontakt med dig själv.<br>Älskade yogan, underbara lärare, och att det innehöll så många inslag av Bali som tempeltur och risfältpromenader. <br>Maten i retreatköket var underbar efter den dagliga yogan. Underbart poolområde, spat perfekt, åker gärna tillbaka o yogar. <br>Jag älskar att det här stället är helt omgiven av natur, som tillåter mig att koppla av och njuta ljud från fåglar, vinden och porlande vatten.<br>Kände mig trygg och omhändertagen.",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thumbnail-img-7332-720x960.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "text3_2": "Lena Palmér - (Deltagare 2017)",
+          "text4_1": "Det är en stämningsfull miljö att yoga i! <br>Retreatet och boendet i närheten av Ubud var utmärkt och servicen var enastående. &nbsp;Camilla och övriga lärare är utmärkta och de praktiska tips de gav oss på meditation och yoga verkligen hjälper när du är tillbaka i \"verkligheten\". Yoga shalan i sig skulle få mig att åka tillbaka. Det har fantastisk utsikt från högt uppe bland plamerna och atmosfären är så lugn. Maten var också riktigt bra, fräsch och hälsosam!\n<br>Jag längtar tillbaka!&nbsp;<br>",
+          "media4": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1006-720x960.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "text4_2": "Annica Snell - Abb (deltagare 2017)",
+          "_styles": {
+            "H1": {
+              "color": "#29d9c2"
+            }
+          }
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "features2",
+          "_anchor": "features2-11",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showName": true,
+            "showOccupation": true,
+            "showTexts": true,
+            "showSocials": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "header": "vi som arrangerar Nästa års <br>Love your life retreat: 2019",
+          "subheader": "För fjärde året i rad återkommer succeresan till magiska Bali.<br>Det är en Yogaresa men också en Baliresa med genom fantastiska frukt och matupplevelser, grön och skön natur, anorlunda djurliv, vackra tempel, härligt leende människor, hinduisk kultur &amp; tratidion. En resa är alltid in inre resa och vi hoppas du ska möta avkoppling och energigivande nystart, att njuta och må bra på vårt LOVE YOUR LIFE RETREAT.",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/camilla-600x600-99.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "Camilla Massaro",
+              "title": "Camilla Massaro Yogalärare",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "Camilla Massaro",
+          "subtitle1": "Yogalärare",
+          "caption1": "<b>Idag har jag arbetat som yogalärare i ca 10år. Jag har alltid hyrt in mig på olika ställen och inte haft ett eget ställe. För mig har det passat bra </b>eftersom jag också heltidsarbetet inom bank- och försäkringsbranschen samtidigt. Just nu har jag tagit mig ett sabbatsår =) och fokuserar bara på mitt företag. Jag bygger hemsidor, etablerar FB-sidor, provar nya kurser som Månfashealing, Meditation och Knyta egen mala. Jag etablerar YogaResor med inslag av landet där vi är dvs utflykter och workshops. Just nu är det ”Love Your Life Retreat” på Bali 2-7 april 2019 som planeras. <b>BALI ÄR FANTASTISKT! Åker dit för fjärde året i rad nu…!</b> Och min man älskar det också… fast han får inte yoga med oss tjejer.",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/camilla.massaro\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/camillamassaro\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ganesha-41-600x600-89.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "Bali Ganesha",
+              "title": "Bali Ganesha",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "Bali Ganesha",
+          "subtitle2": "vår husgud =)",
+          "caption2": "<b>LYCKA &amp; VÄLGÅNG. Undanröjer hinder. Finns i barnens skolböcker. Anv när nya projekt startas så som husbyggen, ny dag, nytt jobb.</b><br>Son till Shiva och Parvati. Enligt legenden fick han sitt elefanthuvud efter en incident då Shiva kom hem efter en lång resa. Shiva kände inte igen sin son som under resan vuxit från barn till ung man. I vrede trodde Shiva att han var en älskare till Parvati och högg av hans huvud. När Shiva sedan upptäckte sitt misstag skickade han ut sina tjänare för att hämta det första huvud de kunde finna. Detta råkade sitta på en elefant. Det är också anledningen till att Ganesha är den gud som tillbes allra först av alla gudar.",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "GÄSTLÄRARE",
+          "subtitle3": "yogalärare",
+          "caption3": "Gästlärare - <b>Med spänning väntar jag </b>fortfarande på att få presentera henne.",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/anncharlotte.sivertsson\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"></a></li>"
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/180330-64-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180330-64-2000x1333.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/180402-18-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180402-18-2000x1333.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/180328-38-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180328-38-2000x1333.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/180326-24-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180326-24-2000x1333.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/180329-62-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180329-62-2000x1333.jpg",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/180401-301-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180401-301-2000x1333.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12783560-845888535520527-98845198750599619-o-1-2000x1125-800x527.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12783560-845888535520527-98845198750599619-o-1-2000x1125.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/180330-281-2000x1333-800x525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180330-281-2000x1333.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "_anchor": "gallery1-16",
+          "articleLayout": false
+        },
+        {
+          "_name": "map1",
+          "_anchor": "map1-19",
+          "_params": {
+            "googleMap": {
+              "address": "Ubud, bali",
+              "placeId": "ChIJw8kin3M90i0RHD13a_2Ko1Q",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "contacts1",
+          "_styles": {
+            "H1": {
+              "font-size": "20px",
+              "color": "#555555"
+            },
+            "P": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "13px"
+            },
+            "DIV": {
+              "text-align": "right",
+              "color": "#555555"
+            }
+          },
+          "_anchor": "contacts1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#dbdbdb",
+            "parallax": false,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "iconsColor": "#29d9c2",
+            "icon1": "fa-map-marker",
+            "icon2": "fa-phone",
+            "icon3": "fa-envelope"
+          },
+          "title": "Kontakt:",
+          "text1": "Västerås, SWEDEN",
+          "text2": "<p>Camilla&nbsp;&nbsp;&nbsp;<b>&nbsp;</b><a href=\"tel://+46 73 985 6742\" class=\"text-black\">+46 73 985 6742</a><br></p>",
+          "text3": "<p><a href=\"mailto://camilla.massaro@live.se\" class=\"text-black\">camilla.massaro@live.se</a><br><br></p>",
+          "icons": " <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/baliyogaretreat2017\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a>    <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> "
+        },
+        {
+          "alias": "unicore/components",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#29d9c2",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/baliyogaretreat2017\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "anmalan.html": {
+      "settings": {
+        "title": "Säkra din plats!",
+        "meta_descr": "Säkra din plats!",
+        "order": 3
+      },
+      "components": [
+        {
+          "alias": "unicore/components",
+          "_name": "menu",
+          "_anchor": "menu-4",
+          "_params": {
+            "logo": false,
+            "brandName": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brandName": "<a data-app-btn=\"true\" data-app-selector=\".navbar-header a\" href=\"./index.html\" class=\"navbar-brand brand text-danger\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Retreat : BAli Yoga &amp; minfulness<br></a>",
+          "buttons": "<li><a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"anmalan.html\" data-toolbar=\"-mbrBtnMove\">Boka här !<br></a></li>",
+          "itemsRight": "<li class=\"dropdown1\"><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"index.html\">hem</a><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"index.html#features2-11\">om oss</a><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"page3.html\">kontakta&nbsp;</a></li>",
+          "_styles": {
+            ".simplemenu": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-inverse": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-fixed-top": "",
+            ".navbar-inverse.scrolled": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-toggle": "",
+            ".navbar-collapse": "",
+            ".collapse": "",
+            ".navbar-collapse.in": "",
+            ".nav li  a": "",
+            ".navbar-login": "",
+            ".navbar-right": "",
+            ".mbr-navbar__brand-img mbr-brand__img": "",
+            ".navbar-collapse.collapse.in": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".mbr-navbar__section": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-toggle .icon-bar": {
+              "background": "#ffffff !important"
+            }
+          }
+        },
+        {
+          "title": "CONTACT FORM",
+          "alias": "unicore/components",
+          "_name": "form1",
+          "_anchor": "form1-16",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#29d9c2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/XMJQERp9k80?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "overlay": true,
+            "overlayColor": "#cccccc",
+            "overlayOpacity": "0.6"
+          },
+          "form": {
+            "action": "camilla.massaro@live.se",
+            "alerts": {
+              "success": "Tack för din anmälan!\n\nJag återkommer till dig personligen för mer info och betalning av anmälningsavgiften.  (Jag svarar oftast inom 1 dygn.)\n\nMvh Camilla\n+46 739 856742"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ditt namn här*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email Address här*"
+              },
+              "subject": {
+                "title": "subject",
+                "visible": true,
+                "customTitle": "Min rumskamrat"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Frågor och önskemål"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Smycken",
+        "order": 2
+      },
+      "components": [
+        {
+          "alias": "unicore/components",
+          "_name": "menu",
+          "_styles": {
+            ".simplemenu": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-inverse": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-fixed-top": "",
+            ".navbar-inverse.scrolled": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-toggle": "",
+            ".navbar-collapse": "",
+            ".collapse": "",
+            ".navbar-collapse.in": "",
+            ".nav li  a": "",
+            ".navbar-login": "",
+            ".navbar-right": "",
+            ".mbr-navbar__brand-img mbr-brand__img": "",
+            ".navbar-collapse.collapse.in": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".mbr-navbar__section": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-toggle .icon-bar": {
+              "background": "#ffffff !important"
+            },
+            ".navbar-brand.brand": {
+              "padding": "30px 0px 0px 10px !important"
+            },
+            ".mbr-navbar__brand-img.mbr-brand__img": {
+              "padding-bottom": "10px !important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "brandName": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brandName": "<a data-app-btn=\"true\" data-app-selector=\".navbar-header a\" href=\"./index.html\" class=\"navbar-brand brand text-danger\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Retreat : BAli Yoga &amp; minfulness<br></a>",
+          "buttons": "<li><a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"anmalan.html\" data-toolbar=\"-mbrBtnMove\">Boka här !<br></a></li>",
+          "itemsRight": "<li class=\"dropdown1\"><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"index.html\">hem</a><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"index.html#features2-11\">om oss</a><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"page3.html\">kontakta&nbsp;</a></li>",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.6",
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "icon1": "fa-bolt",
+            "icon2": "fa-magnet"
+          },
+          "title": "APPLY NOW!",
+          "title1": "Meet the Unicore<br>Landing page toolkit",
+          "title2": "ATTRACT VISITORS",
+          "title3": "MAGNET ICON",
+          "text1": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-block btn-lg btn-primary\">GET FREE TRIAL</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "peter_alvmo@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "First Name",
+                "customTitle": "First Name"
+              },
+              "lastName": {
+                "visible": true,
+                "title": "Last Name",
+                "customTitle": "Last Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email Address",
+                "customTitle": "Email Address"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone No.",
+                "customTitle": "Phone No."
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Kontakt",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": "unicore/components",
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "brandName": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brandName": "<a data-app-btn=\"true\" data-app-selector=\".navbar-header a\" href=\"./index.html\" class=\"navbar-brand brand text-danger\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Retreat : BAli Yoga &amp; minfulness<br></a>",
+          "buttons": "<li><a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"anmalan.html\" data-toolbar=\"-mbrBtnMove\">Boka här !<br></a></li>",
+          "itemsRight": "<li class=\"dropdown1\"><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"index.html\">hem</a><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"index.html#features2-11\">om oss</a><a class=\"text-white\" data-app-btn=\"true\" data-app-selector=\".nav.navbar-nav.navbar-right a\" href=\"page3.html\">kontakta&nbsp;</a></li>",
+          "_styles": {
+            ".simplemenu": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-inverse": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-fixed-top": "",
+            ".navbar-inverse.scrolled": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-toggle": "",
+            ".navbar-collapse": "",
+            ".collapse": "",
+            ".navbar-collapse.in": "",
+            ".nav li  a": "",
+            ".navbar-login": "",
+            ".navbar-right": "",
+            ".mbr-navbar__brand-img mbr-brand__img": "",
+            ".navbar-collapse.collapse.in": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".mbr-navbar__section": {
+              "background-color": "#ffffff",
+              "transition": "background 0.2s"
+            },
+            ".navbar-toggle .icon-bar": {
+              "background": "#ffffff !important"
+            }
+          },
+          "_anchor": "menu-7"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#29d9c2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-ico\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>",
+          "form": {
+            "action": "camilla.massaro@live.se",
+            "alerts": {
+              "success": "Tack för ditt meddelande/ dina frågor!\nVi återkommer så fort vi kan, oftast inom 1 dygn.\n\nMvh Camilla"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Ditt namn*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Din mail*"
+              },
+              "subject": {
+                "visible": true,
+                "title": "subject",
+                "customTitle": "Upprepa din mail*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Meddelande och/eller Frågor"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-8"
+        }
+      ]
+    }
+  }
+}
