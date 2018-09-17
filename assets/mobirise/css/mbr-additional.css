@@ -2,50 +2,6 @@
 
 @isPublish: true;
 
-#menu-4 {
-.simplemenu {
-  background-color: #ffffff;
-  transition: background 0.2s;
-}
-.navbar-inverse {
-  background-color: #ffffff;
-  transition: background 0.2s;
-}
-.navbar-fixed-top: ;
-.navbar-inverse.scrolled {
-  background-color: #ffffff;
-  transition: background 0.2s;
-}
-.navbar-toggle: ;
-.navbar-collapse: ;
-.collapse: ;
-.navbar-collapse.in: ;
-.nav li  a: ;
-.navbar-login: ;
-.navbar-right: ;
-.mbr-navbar__brand-img mbr-brand__img: ;
-.navbar-collapse.collapse.in {
-  background-color: #ffffff;
-  transition: background 0.2s;
-}
-.mbr-navbar__section {
-  background-color: #ffffff;
-  transition: background 0.2s;
-}
-.navbar-toggle .icon-bar {
-  background: #ffffff !important;
-}
-.navbar-brand.brand {
-  padding: 30px 0px 0px 10px !important;
-}
-.mbr-navbar__brand-img.mbr-brand__img {
-  padding-bottom: 10px !important;
-}
-.navbar-header a {
-  font-size: 23px;
-}
-}
-
 #parallax1-0 {
 }
 
@@ -99,6 +55,36 @@ DIV {
 }
 
 #social-buttons2-6 {
+}
+
+#menu-a {
+.simplemenu {
+  background-color: #2c2c2c;
+  transition: background 0.2s;
+}
+.navbar-inverse: background: transparent;
+.navbar-fixed-top: ;
+.navbar-inverse.scrolled {
+  background-color: #2c2c2c;
+  transition: background 0.2s;
+}
+.navbar-toggle: ;
+.navbar-collapse: ;
+.collapse: ;
+.navbar-collapse.in: ;
+.nav li  a: ;
+.navbar-login: ;
+.navbar-right: ;
+.mbr-navbar__brand-img mbr-brand__img: ;
+.navbar-collapse.collapse.in {
+  background-color: #2c2c2c;
+  transition: background 0.2s;
+}
+.mbr-navbar__section {
+}
+.navbar-toggle .icon-bar {
+  background: #ffffff !important;
+}
 }
 @isPublish: true;
 
