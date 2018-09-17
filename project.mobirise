@@ -54,7 +54,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/activity-meditation-2000x951-59.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/activity-meditation-small-400x190.jpg",
             "overlay": true,
             "overlayColor": "#151515",
             "overlayOpacity": "0.2"
