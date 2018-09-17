@@ -71,7 +71,7 @@
             "icon4": "fa-clock-o",
             "showTitles": false
           },
-          "title": "Följ med - Bokas nu!<br><br>Love Youre Life Retreat&nbsp;",
+          "title": "<a href=\"anmalan.html\" target=\"_blank\">Följ med - Bokas nu!</a><br><br>Love Youre Life Retreat&nbsp;",
           "title1": "Multi Layouts",
           "title2": "Creative Idea",
           "title3": "Target Buyers",
@@ -787,7 +787,7 @@
           "text1": "Västerås, SWEDEN",
           "text2": "<p>Camilla&nbsp;&nbsp;&nbsp;<b>&nbsp;</b><a href=\"tel://+46 73 985 6742\" class=\"text-black\">+46 73 985 6742</a><br></p>",
           "text3": "<p><a href=\"mailto://camilla.massaro@live.se\" class=\"text-black\">camilla.massaro@live.se</a><br><br></p>",
-          "icons": " <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/chakrayogamedcamillamassaro\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a>    <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/yogaforyou_by_camillamassaro/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-instagram\"></i></a> "
+          "icons": " <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/chakrayoga.se\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a>    <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/yogaforyou_by_camillamassaro/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-instagram\"></i></a> "
         },
         {
           "alias": "unicore/components",
