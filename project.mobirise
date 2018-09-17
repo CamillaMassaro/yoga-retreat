@@ -52,7 +52,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/14.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/activity-meditation-cropped-smaller-1230x739.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
