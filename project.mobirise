@@ -217,12 +217,12 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/narasoma-spa03-2000x1334-73.jpg",
                 "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
-                "title": "Spábehandlingar",
+                "title": "Spá-<br>behandlingar",
                 "showText": true,
                 "text": "Här får du en massage när du kommer fram efter en lång resa. Du får du en ny mjuk och skön kropp. Ett sätt att koppla ifrån resestressen och komma in i Balis avkopplande stämning. Bokas på plats.",
                 "showButtons": false,
@@ -243,7 +243,7 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/rctwin-6-1000x667.jpg",
                 "contentAlign": "right",
                 "overlay": "true",
@@ -351,7 +351,7 @@
                 "contentAlign": "right",
                 "overlay": "true",
                 "showTitle": true,
-                "title": "Retreatcentret en &nbsp;underbar miljö",
+                "title": "Retreat-<br>centret en <br>underbar miljö",
                 "showText": true,
                 "text": "Området har många krypin där du kan hitta den plats som passar dig för tillfället. En promenad bland ubuds härliga gränder, äta kokosglass är också värdefullt. Egen tid!",
                 "showButtons": false,
