@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "2.14.2",
     "versionPublish": "4.8.1",
     "name": "Bali-Yoga-Retreat",
@@ -989,15 +989,15 @@
               "subject": {
                 "title": "subject",
                 "visible": true,
-                "customTitle": "Min rumskamrat"
+                "customTitle": "Upprepa din mail här*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Frågor och önskemål"
+                "customTitle": "BOKA DIN PLATS (och frågor & önskemål)"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Skicka<i class=\"fa fa-paper-plane-o\"></i></a>"
         }
       ]
     },
@@ -1242,7 +1242,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-ico\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-default btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; &nbsp;Skicka&nbsp;</a>",
           "form": {
             "action": "camilla.massaro@live.se",
             "alerts": {
@@ -1266,7 +1266,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Meddelande och/eller Frågor"
+                "customTitle": "KONTAKT: Meddelande och/eller Frågor"
               }
             }
           },
